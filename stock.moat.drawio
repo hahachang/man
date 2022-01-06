@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T15:07:49.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" version="16.2.2" etag="_MV8z7o2R6g60XV5bvb4" type="github"><diagram id="h4U1oSsqSHgE3TAhsM1b">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-06T16:44:53.726Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="isFXThrdregwg9PW6zdy" version="16.2.2" type="github">
+  <diagram id="h4U1oSsqSHgE3TAhsM1b" name="Page-1">
+    <mxGraphModel dx="962" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hc0kCr5w49Jbdoi-dQrj-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="310" />
+              <mxPoint x="320" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-3" value="損益表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hc0kCr5w49Jbdoi-dQrj-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="310" />
+              <mxPoint x="320" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-4" value="資產負債表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-5" value="現金流量表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-9" value="ROE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-10" value="本金" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="538.82" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-11" value="借錢" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="398.82" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-12" value="股東" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="468.82" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-13" value="非股東" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="398.82" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Hc0kCr5w49Jbdoi-dQrj-12" target="Hc0kCr5w49Jbdoi-dQrj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-17" value="資產" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-18" value="權益" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="468.82" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-19" value="負債" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="398.82" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-20" value="營業收入(本業收入)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="700" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-21" value="營業毛利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="750" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="50" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-25" value="成本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-27" value="管推研" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-28" value="業外收入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-31" value="營業利益" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="800" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-32" value="營業淨利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="850" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-33" value="稅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="900" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-34" value="營業純利" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="900" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-35" value="其他綜合損益(OCI)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="900" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-36" value="綜合損益" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1000" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-37" value="已實現" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="950" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hc0kCr5w49Jbdoi-dQrj-39" value="未實現" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="950" width="150" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
